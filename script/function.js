@@ -1,3 +1,4 @@
+
 // Plus button
 function plusButton(inp){
     let value= parseInt(inp.value)
@@ -27,6 +28,7 @@ function getSetPhonePrice(input){
         return 0
     }
 }
+
 // Get and Set Case Price
 function getSetCasePrice(){
         const price= price2*parseInt(input2.value)
